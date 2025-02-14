@@ -16,8 +16,7 @@ Kolla gärna in min portfolio där du kan se exempel på mina projekt och få en
 - [LinkedIn](https://www.linkedin.com/in/angelo-collocolo-451098204/)
 
 ## 💻 Tech Stack:
-- C# | JavaScript | TypeScript | .NET | Node.js | SASS | Redux | React | Next.js | NPM | TailwindCSS | Bootstrap | PostgreSQL | Figma | Git
-
+- C# | JavaScript | TypeScript | .NET | Node.js | SASS | Redux | React | Next.js | NPM | Tailwind | Bootstrap | PostgreSQL | Figma | Git | MUI | Docker | Vue | Angular | Firebase | Native
 ## 📊 GitHub Stats:
 ![Angelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelocoll&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
