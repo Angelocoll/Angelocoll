@@ -1,6 +1,6 @@
 # Hi there, my name is Angelo! 👋
 
-👩‍🎓 I am currently studying to become a Frontend Developer at Nackademin, with expected graduation in May 2025.
+I am currently studying to become a Frontend Developer at Nackademin, with expected graduation in May 2025.
 
 🌱 I am currently Advancing in **TypeScript**.
 
