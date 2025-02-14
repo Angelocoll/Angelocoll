@@ -8,7 +8,7 @@
 
 Kolla gärna in min portfolio där du kan se exempel på mina projekt och få en bättre förståelse av min arbetsstil och mina färdigheter:
 
-[![Min Portfolio](https://www.example.com/bild.jpg)](https://angelocoll.github.io/portfolio-1.2/)
+[![Min Portfolio](https://github.com/Angelocoll/Profile/blob/main/Ska%CC%88rmavbild%202025-02-14%20kl.%2016.42.12.png)](https://angelocoll.github.io/portfolio-1.2/)
 
 **[Min Portfolio](https://angelocoll.github.io/portfolio-1.2/)**
 
